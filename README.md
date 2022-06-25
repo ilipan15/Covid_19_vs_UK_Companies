@@ -4,6 +4,7 @@
 ### Project Description
 
 In this project there are visualizations that aim to show the impact of the Covid-19 pandemic on UK business foundation patterns.
+One of them is static, with the aid of seaborn and the other two are interactive with the usage of plotly.
 
 ### Dataset 
 
